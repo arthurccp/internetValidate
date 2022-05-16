@@ -68,21 +68,15 @@
                         <color key="backgroundColor" systemColor="linkColor"/>
                         <constraints>
                             <constraint firstItem="Lg2-On-n90" firstAttribute="leading" secondItem="K8M-o4-6E8" secondAttribute="leading" constant="40" id="3eF-KW-iHM"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="leading" secondItem="K8M-o4-6E8" secondAttribute="leading" id="Asx-T8-7vV"/>
                             <constraint firstItem="K8M-o4-6E8" firstAttribute="trailing" secondItem="Lg2-On-n90" secondAttribute="trailing" constant="40" id="BL5-zh-hS9"/>
                             <constraint firstItem="K8M-o4-6E8" firstAttribute="bottom" secondItem="Lg2-On-n90" secondAttribute="bottom" constant="40" id="IQO-D7-pJl"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="top" secondItem="00V-jN-Dgr" secondAttribute="bottom" constant="21.5" id="IqM-zb-QUZ"/>
                             <constraint firstItem="eWW-8p-sWN" firstAttribute="top" secondItem="00V-jN-Dgr" secondAttribute="bottom" constant="21.5" id="M8f-YS-qe1"/>
                             <constraint firstItem="00V-jN-Dgr" firstAttribute="top" secondItem="K8M-o4-6E8" secondAttribute="top" constant="34" id="MZS-IU-Izp"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="top" secondItem="00V-jN-Dgr" secondAttribute="bottom" constant="21.5" id="PoH-FV-lw9"/>
                             <constraint firstItem="Lg2-On-n90" firstAttribute="top" secondItem="eWW-8p-sWN" secondAttribute="bottom" constant="16" id="VNu-9s-7WL"/>
                             <constraint firstItem="K8M-o4-6E8" firstAttribute="trailing" secondItem="00V-jN-Dgr" secondAttribute="trailing" constant="44" id="XkX-mj-HoB"/>
                             <constraint firstItem="eWW-8p-sWN" firstAttribute="leading" secondItem="K8M-o4-6E8" secondAttribute="leading" id="Ypw-vN-xkx"/>
                             <constraint firstItem="eWW-8p-sWN" firstAttribute="trailing" secondItem="K8M-o4-6E8" secondAttribute="trailing" id="bDo-uh-h8h"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="trailing" secondItem="K8M-o4-6E8" secondAttribute="trailing" id="g64-8Y-0u5"/>
                             <constraint firstItem="00V-jN-Dgr" firstAttribute="leading" secondItem="K8M-o4-6E8" secondAttribute="leading" constant="44" id="hqv-ZR-p91"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="trailing" secondItem="K8M-o4-6E8" secondAttribute="trailing" id="ijm-g5-qyT"/>
-                            <constraint firstItem="eWW-8p-sWN" firstAttribute="leading" secondItem="K8M-o4-6E8" secondAttribute="leading" id="uTJ-He-b8Y"/>
                         </constraints>
                     </view>
                 </viewController>
